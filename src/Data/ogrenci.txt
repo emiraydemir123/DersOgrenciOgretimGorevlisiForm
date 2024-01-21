@@ -1,0 +1,5 @@
+Ogrenci No: 1	Ogrenci Ad: Ahmet	Ogrenci Soyad: Yılmaz	Ogrenci Bolum: Matematik
+Ogrenci No: 2	Ogrenci Ad: Ali	Ogrenci Soyad: Veli	Ogrenci Bolum: Tarih
+Ogrenci No: 3	Ogrenci Ad: Furkan	Ogrenci Soyad: Öz	Ogrenci Bolum: Matematik
+Ogrenci No: 31	Ogrenci Ad: Ali	Ogrenci Soyad: Furkan	Ogrenci Dersi: Mobil Programlama Ogrenci Bölümü; BIP
+Ogrenci No: 312	Ogrenci Ad: Hasan	Ogrenci Soyad: Yük	Ogrenci Dersi: Mobil Programlama Ogrenci Bölümü; DIP

@@ -1,0 +1,3 @@
+Ders Kodu: 1,Ders Isim: Bilgisayar Programcılığı,Ders Donem: 1
+Ders Kodu: 1,Ders Isim: Mobil Programlama,Ders Donem: 2
+Ders Kodu: 2,Ders Isim: Türkçe,Ders Donem: 1
